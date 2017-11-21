@@ -1,0 +1,9 @@
+spc =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 173.10.1.167)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = spc)
+    )
+  )
